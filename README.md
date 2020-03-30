@@ -1,4 +1,4 @@
-# covid19
+# Covid19
 Repository with updated information on COVID19
 ## Frequently Asked Questions
 * What is COVID 19 ?
@@ -12,6 +12,7 @@ Repository with updated information on COVID19
 * Is there a vaccine ?
 * Why social distancing ?
 * Does wearing masks help ?
+* What are the different kinds of masks ?
 * What did Korea do right ?
 * What has Italy done wrong ?
 * Why are there few cases in the African continent ?
@@ -23,4 +24,4 @@ Repository with updated information on COVID19
 * What does a hospital need to treat a COVID 19 patient ?
 * What does testing for COVID 19 include ?
 * What is the difference between an epidemic and a pandemic ?
-* 
+
