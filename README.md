@@ -24,4 +24,5 @@ Repository with updated information on COVID19
 * What does a hospital need to treat a COVID 19 patient ?
 * What does testing for COVID 19 include ?
 * What is the difference between an epidemic and a pandemic ?
+## References
 
